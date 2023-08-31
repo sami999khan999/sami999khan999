@@ -1,9 +1,8 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=sami999khan999&label=Profile%20views&color=292b4d&style=flat" alt="sami999khan999" />
-</p>
-
 # 🏄‍♂️ Sami Khan
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sami999khan999&label=Profile%20views&color=292b4d&style=flat" alt="sami999khan999" />
+</p>
 
 **`Digital Craftsman (Developer)`**
 
