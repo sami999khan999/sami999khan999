@@ -1,6 +1,6 @@
 # 🏄‍♂️ Sami Khan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="sami999khan999" /> </p>
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
