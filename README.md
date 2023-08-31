@@ -47,7 +47,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sami999khan999)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sami999khan999&show_icons=true&locale=en" alt="sami999khan999" /></p>
 
 
 #
