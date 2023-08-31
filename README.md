@@ -47,7 +47,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sami999khan999&show_icons=true&locale=en" alt="sami999khan999" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sami999khan999&" alt="sami999khan999" /></p>
 
 
 #
