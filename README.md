@@ -6,7 +6,7 @@
 
 **`Digital Craftsman (Developer)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+👋 Hey there! I'm a passionate college student on an exciting journey to become a proficient web developer. 🌐 My coding adventure primarily revolves around the wonderful world of React. 💻 I'm constantly honing my skills in this JavaScript library to craft engaging and dynamic web experiences. 🚀 Beyond React, I also dabble in HTML, CSS, and other web technologies. 🌟 I'm enthusiastic about building user-friendly interfaces, solving real-world problems through code, and contributing to open-source projects. 🤝 Let's connect, learn, and grow together in the ever-evolving realm of web development! 🌱 #WebDev #ReactJS #CodeEnthusiast
 
 ---
 
