@@ -46,8 +46,6 @@ I'm an indie full-stack developer and content creator building my version of the
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sami999khan999)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sami999khan999)](https://github.com/anuraghazra/github-readme-stats)
 
 
