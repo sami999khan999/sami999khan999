@@ -4,7 +4,6 @@
 <br/>
   <table>
     <tr>
-      <!-- <th>Profile Views</th> -->
       <th>Total Count</th>
     </tr>
     <tr>
@@ -16,10 +15,6 @@
         </b>
       </td> 
       
-      <td>
-         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=thinkright20&style=for-the-badge&color=brightgreen"> </a>
-      </td>
-    </tr>
   </table>
 
 **`Digital Craftsman (Developer)`**
