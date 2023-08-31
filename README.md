@@ -9,9 +9,9 @@
     <tr>
        <td>
         <div align="center">
-          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
+          <a href="https://github.com/sami999khan999"><img src="https://github.com/sami999khan999.png" alt="@Thinkright20" width="52" /></a>
           <br />
-          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
+          <a align="center" href="https://github.com/thinkright20"><b>sami999khan999</b></a>
         </b>
       </td> 
       
