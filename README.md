@@ -12,7 +12,9 @@
 
 ---
 
-- 👨‍💻 All of my projects are available at [https://cheerful-nasturtium-c34426.netlify.app/](https://cheerful-nasturtium-c34426.netlify.app/)
+### Portfolio
+
+👨‍💻 All of my projects are available at [https://cheerful-nasturtium-c34426.netlify.app/](https://cheerful-nasturtium-c34426.netlify.app/)
 
 #
 
