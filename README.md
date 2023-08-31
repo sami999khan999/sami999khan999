@@ -1,4 +1,4 @@
-# https://lh3.googleusercontent.com/a/AAcHTtc-VRez7eLxV9JBojZ1nYa5-Tp8tPJ1MpGTfBXGxK0dVg=s288-c-no Sami Khan
+# 🌌 Sami Khan
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sami999khan999&label=Profile%20views&color=292b4d&style=flat" alt="sami999khan999" />
