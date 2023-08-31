@@ -44,13 +44,7 @@ I'm an indie full-stack developer and content creator building my version of the
 ### 📊 Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sami999khan999&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
-<br />
-<br />
-<br />
-<br />
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sami999khan999&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sami999khan999&&theme=tokyonight" alt="rishavchanda" /></p>
 
 
