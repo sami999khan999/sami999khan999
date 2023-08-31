@@ -2,9 +2,25 @@
 
 <details>
 <br/>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sami999khan999&label=Profile%20views&color=292b4d&style=flat" alt="sami999khan999" />
-</p>
+  <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+       <td>
+        <div align="center">
+          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
+        </b>
+      </td> 
+      
+      <td>
+         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=thinkright20&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
 
 **`Digital Craftsman (Developer)`**
 
@@ -14,7 +30,7 @@
 
 ### 🗄️ Portfolio
 
-All of my projects are available at 
+All of my projects are available at -
 
 #
 
