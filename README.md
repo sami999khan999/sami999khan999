@@ -48,7 +48,8 @@ I'm an indie full-stack developer and content creator building my version of the
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sami999khan999)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sami999khan999)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sami999khan999)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #
 
