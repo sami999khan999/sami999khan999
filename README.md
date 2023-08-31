@@ -2,19 +2,23 @@
 
 <details>
 <br/>
-  <table>
+   <table>
     <tr>
+      <<th>Profile Views</th>
       <th>Total Count</th>
     </tr>
     <tr>
-       <td>
+      <<td>
         <div align="center">
-          <a href="https://github.com/sami999khan999"><img src="https://github.com/sami999khan999.png" alt="@Thinkright20" width="52" /></a>
+          <a href="https://github.com/sami999khan999"><img src="https://github.com/sami999khan999.png" alt="" width="52" /></a>
           <br />
-          <a align="center" href="https://github.com/thinkright20"><b>sami999khan999</b></a>
+          <a align="center" href="https://github.com/sami999khan999"><b>sami999khan999</b></a>
         </b>
-      </td> 
-      
+      </td>
+      <td>
+         <a href="https://github.com/sami999khan999"> <img src="https://komarev.com/ghpvc/?username=sami999khan999&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
   </table>
 
 **`Digital Craftsman (Developer)`**
