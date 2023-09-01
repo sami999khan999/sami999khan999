@@ -18,13 +18,13 @@
 
 All of my projects are available at -
 
-#
+---
 
 ### 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sami999Khan999) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22300714) 
 
-#
+---
 
 ### 🗃️ Languages and Tools
 
@@ -46,7 +46,7 @@ All of my projects are available at -
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
+---
 
 ### 📊 Stats
 
@@ -57,7 +57,7 @@ All of my projects are available at -
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sami999khan999&&theme=tokyonight" alt="sami999khan999" /></p>
 
-#
+---
 
 <details>
  <summary><h3>👨‍💻 Embracing the Journey: Words of Wisdom for Beginner Programmers</h3></summary>
