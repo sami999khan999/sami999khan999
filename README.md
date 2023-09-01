@@ -1,6 +1,6 @@
 # Sami Khan
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=sami999khan999.sami999khan999&style=for-the-badge&color=darkgreen)
+![Profile views](https://komarev.com/ghpvc/?username=sami999khan999&color=darkgreen&style=flat-square)
 
   **`Digital Craftsman (Developer)`**  
 
