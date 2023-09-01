@@ -1,4 +1,6 @@
-# ⚙️ Sami Khan 
+# <p align="center">
+  ⚙️ Sami Khan 
+</p>
 
 <br/>
 
