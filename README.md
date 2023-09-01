@@ -2,7 +2,9 @@
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=sami999khan999&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sami999khan999&label=Profile%20views&color=292b4d&style=flat" alt="sami999khan999" />
+</p>
 
 **`Digital Craftsman (Developer)`** 
 
@@ -26,7 +28,7 @@ All of my projects are available at -
 #
 
 
-### 🗃️ Languages and Tools
+## 🗃️ Languages and Tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
