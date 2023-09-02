@@ -16,11 +16,16 @@ Hey there! I'm a passionate college student on an exciting journey to become a p
   
 ---
 
+<br />
+
 ### Portfolio 
 
  `All of my projects are available at -`
 
 #
+
+<br />
+
 
 ### Socials 
 
