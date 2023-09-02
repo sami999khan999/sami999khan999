@@ -22,7 +22,9 @@ Hey there! I'm a passionate college student on an exciting journey to become a p
 
 ### 🌐 Socials 
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sami999Khan999) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22300714) 
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/sami999khan999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sami999khan999" height="30" width="40" /></a>
+</p>
 
 #
 
