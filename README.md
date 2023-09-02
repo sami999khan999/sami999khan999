@@ -15,14 +15,14 @@ Hey there! I'm a passionate college student on an exciting journey to become a p
   
 ---
 
-### 🗄️ Portfolio
+### Portfolio
 
  `All of my projects are available at -`
 
 #
 
 
-### 🌐 Socials 
+### Socials 
 
 <p align="left">
   <a href="https://fb.com/https://www.facebook.com/sami999khan999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sami999khan999" height="30" width="40" /></a>
@@ -32,7 +32,7 @@ Hey there! I'm a passionate college student on an exciting journey to become a p
 #
 
 
-### 🗃️ Languages and Tools
+###  Languages and Tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -54,7 +54,7 @@ Hey there! I'm a passionate college student on an exciting journey to become a p
 
 #
 
-### 📊 Stats
+### Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sami999khan999&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sami999khan999" /></p>
 
