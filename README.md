@@ -7,8 +7,6 @@ Hey there! I'm a passionate college student on an exciting journey to become a p
 <details>
 <summary></summary>
 
-<br/>
-
 ###  Profild Viewes 
 
 <p align="left">
