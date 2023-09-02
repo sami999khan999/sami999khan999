@@ -65,5 +65,5 @@ Hey there! I'm a passionate college student on an exciting journey to become a p
 #
 
 <details>
- <summary><h3>👨‍💻 Embracing the Journey: Words of Wisdom for Beginner Programmers</h3></summary>
+ <summary><h3> Embracing the Journey: Words of Wisdom for Beginner Programmers</h3></summary>
    Welcome to the exciting world of programming! As a beginner programmer, you're embarking on a journey that will empower you to create, innovate, and solve complex problems with the power of code. While the path ahead may seem daunting at times, remember that every expert was once a beginner, just like you. Embrace the process of learning, and don't be afraid to make mistakes, for they are your best teachers. Start with a strong foundation in a programming language that interests you, like Python or JavaScript, and gradually explore other languages and technologies. Invest time in understanding core programming concepts, data structures, and algorithms, as these form the backbone of your skills. Collaborate with fellow programmers, seek help from online communities, and don't hesitate to ask questions. Building projects, even small ones, is a fantastic way to solidify your knowledge. Remember that progress may be slow, but it's steady, and every line of code you write brings you closer to your goals. Stay curious, stay patient, and keep coding!
