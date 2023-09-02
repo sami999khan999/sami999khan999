@@ -25,8 +25,8 @@ Hey there! I'm a passionate college student on an exciting journey to become a p
 ### 🌐 Socials 
 
 <p align="left">
+  <a href="https://fb.com/https://www.facebook.com/sami999khan999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sami999khan999" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22300714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22300714" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sami999khan999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sami999khan999" height="30" width="40" /></a>
 </p>
 
 #
