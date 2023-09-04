@@ -12,7 +12,7 @@ Hey there! I'm a passionate college student on an exciting journey to become a p
 ### Profild Viewes 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sami999khan999&label=Profile%20Views&color=70A5FD&style=flat" alt="sami999khan999" />
+  <img src="https://komarev.com/ghpvc/?username=sami999khan999&label=Views&color=70A5FD&style=flat" alt="sami999khan999" />
 </p>
   
 ---
