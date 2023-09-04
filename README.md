@@ -3,9 +3,10 @@
 
 Hey there! I'm a passionate college student on an exciting journey to become a proficient web developer. My coding adventure primarily revolves around the wonderful world of React. I'm constantly honing my skills in this JavaScript library to craft engaging and dynamic web experiences. Beyond React, I also dabble in HTML, CSS, and other web technologies. I'm enthusiastic about building user-friendly interfaces, solving real-world problems through code, and contributing to open-source projects. Let's connect, learn, and grow together in the ever-evolving realm of web development!
 
-#
 
 <details>
+
+#
   
 <summary></summary>
 
